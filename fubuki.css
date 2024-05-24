@@ -1,0 +1,31 @@
+<style>
+  body {
+    background-image: url("https://imgur.com/omd6Nt2.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+  .markdown-body span {
+    font-family: Consolas, Microsoft JhengHei;
+  }
+  .markdown-body strong {
+    color: #000000;
+  }
+  .markdown-body h1, .markdown-body h2 {
+    border-bottom-color: #c8c8c8;
+  }
+  .markdown-body hr {
+    margin: 15px;
+    height: 0px;
+    border-top: 1px solid #c8c8c8;
+  }
+  .temp a:link, a:visited, a:hover, a:active {
+    color: #cca158;
+  }
+  .markdown-body a:link, a:visited, a:hover, a:active {
+    color: #c8c8c8;
+    background-color: transparent;
+    text-decoration: none;
+  }
+</style>
